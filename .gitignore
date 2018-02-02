@@ -4,6 +4,7 @@ tmp/
 nbproject/
 build/
 conf/
+dist/
 *.tmp
 *.bak
 *.swp
